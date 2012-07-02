@@ -1,0 +1,6 @@
+name: XPStore
+version: 1.3
+main: me.messageofdeath.XPStore.XPStore
+commands:
+  xps:
+    description: Store command

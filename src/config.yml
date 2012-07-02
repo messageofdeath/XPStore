@@ -1,0 +1,16 @@
+Plugin:
+  Enabled: true
+  VerboseLogging: true
+
+Mysql:
+  Host: host
+  User: user
+  Pass: pass
+  Port: 3306
+  Table_Prefix: XPStore_
+  # DO NOT CHANGE (for now because I need to find out how to create dbs 
+  # unless you will create a db on your own you can change it
+  Database_Name: minecraft
+Vault:
+  Enabled: false
+  Economy: false
